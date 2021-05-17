@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jamdvs
-- 👀 I’m interested in Linux, Typescript
-- 🌱 I’m currently learning Well 
-- I want to work on GNU Free Open Source Software
-
-Default GitHub intro lol
+Im Jamdvs
+I use Manjaro as my OS
+I would like to leran how to code
+I like Free and Open Source Software (GNU/Linux)
